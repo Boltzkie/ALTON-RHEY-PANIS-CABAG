@@ -7,7 +7,7 @@
     <br>
 </head>
 <body bgcolor="gray">
-    <img src="../bolt.jpg" alt="bolt" width="250" height="280">  
+    <img src="../Cabag.jpg" alt="hell fire" width="220" height="250">
     <br>
     <p><h1><strong><a href="http://www.Facebook.com">ALTON RHEY P. CABAG</a></strong></h1></p>
     <br>
