@@ -40,14 +40,10 @@
             <hr>
 <br>
 <br>
-        <strong><p><h2><a href="http://www.Facebook.com"></a></p></strong>
+        <strong><p><h2><a href="http://www.Facebook.com">"EDUCATION"</a></p></strong><br>
         <br>
         <strong>ICT STUDENT IN SILANGA NATIONAL HIGHSCHOOL</strong>
-            
-
-
-        
-
+   
 <br>
 <br>
 <hr>
