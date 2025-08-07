@@ -7,7 +7,6 @@
     <br>
 </head>
 <body bgcolor="gray">
-    
     <br>
     <p><h1><strong><a href="http://www.Facebook.com">ALTON RHEY P. CABAG</a></strong></h1></p>
     <br>
