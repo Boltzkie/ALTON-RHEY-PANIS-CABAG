@@ -43,36 +43,36 @@
 <strong>STUDENT IN NATIONAL SILANGA HIGHSCHOOL: 11TH GRADE, ICT STUDEND </strong>
         <hr>
 
-        <p><strong><h2><a href="http://www.Facebook.com">"SKILLS"</a></h2></strong></p>
+<p><strong><h2><a href="http://www.Facebook.com">"SKILLS"</a></h2></strong></p>
 
 <ul>
 
-        <li><mark><strong>I'M VERY CREATIVE</strong></mark>
+<li><mark><strong>I'M VERY CREATIVE</strong></mark>
        
-        <li><mark><strong>EASY TO ADAPT</strong></li></mark>
+<li><mark><strong>EASY TO ADAPT</strong></li></mark>
         
-        <li><mark><strong>CAN DO MULTI TASKING</strong></li></mark>
+<li><mark><strong>CAN DO MULTI TASKING</strong></li></mark>
         </ul>
         <hr>
 
-        <h2><strong><a href="http://www.Facebook.com">"HOBBIES"</a></strong></h2>
+<h2><strong><a href="http://www.Facebook.com">"HOBBIES"</a></strong></h2>
 
 <ul>
 
-        <li><mark><strong>ONLINE GAMIMG</strong></mark></li>
+<li><mark><strong>ONLINE GAMIMG</strong></mark></li>
 
-        <li><mark><strong>WATCHING ANIME</strong></mark</li>
+<li><mark><strong>WATCHING ANIME</strong></mark</li>
 
-        <li><mark><strong>LISTENING TO MUSIC</strong></mark></li>
+ <li><mark><strong>LISTENING TO MUSIC</strong></mark></li>
         </ul>
         <hr>
 
         
-        <p><h2><strong><a href="http://www.Facebook.com">"OTHERS"</a></strong></h2></p>
+<p><h2><strong><a href="http://www.Facebook.com">"OTHERS"</a></strong></h2></p>
         
-        FACEBOOK:<a href="http://www.Facebook.com">Alton Rhey P. Cabag</a><br>
+FACEBOOK:<a href="http://www.Facebook.com">Alton Rhey P. Cabag</a><br>
         
-        CONTACT:<a href="http://www.Facebook.com">09551532670</a>
+CONTACT:<a href="http://www.Facebook.com">09551532670</a>
 
 </body>
 </html>
