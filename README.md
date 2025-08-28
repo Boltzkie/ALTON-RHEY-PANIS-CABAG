@@ -24,23 +24,23 @@
         <hr>
         
 
-    <P><strong><h2><a href="http://www.Facebook.com">"SAMMARY"</a></h2></strong></P>
+<p><strong><h2><a href="http://www.Facebook.com">"SAMMARY"</a></h2></strong></p>
 <br>
     <strong>MY Objective is to work honest and learn new things
         and Gained experience, <br> to meet new peoples and make friends
         and also to participate in this work.</strong>
         <hr>
 
-        <p><strong><h2><a href="http://www.Facebook.com">"WORK EXPERIENCE"</a></h2></strong></p>
+<p><strong><h2><a href="http://www.Facebook.com">"WORK EXPERIENCE"</a></h2></strong></p>
 
-        <strong>Have No experience at work yet, but I promise
+<strong>Have No experience at work yet, but I promise
             I'm very honest at my work and very Reliable, Dependable,
             Consistent, Trustworthy and Stable.</strong>
             <hr>
             
-        <P><strong><a href="http://www.Facebook.com"><h2>"EDUCATION"</h2></a></strong></P>
+<P><strong><a href="http://www.Facebook.com"><h2>"EDUCATION"</h2></a></strong></P>
 
-        <strong>STUDENT IN NATIONAL SILANGA HIGHSCHOOL: 11TH GRADE, ICT STUDEND </strong>
+<strong>STUDENT IN NATIONAL SILANGA HIGHSCHOOL: 11TH GRADE, ICT STUDEND </strong>
         <hr>
 
         <p><strong><h2><a href="http://www.Facebook.com">"SKILLS"</a></h2></strong></p>
